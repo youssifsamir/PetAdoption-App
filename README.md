@@ -10,6 +10,8 @@ Welcome to the Pet Adoption App repository! This mobile application is built usi
 
 ## Features
 
+- **Clean UI/UX:** Enjoy a visually appealing interface designed for easly navigation and intuitive use.
+- **Smooth Usability:** Experience seamless interactions and fluid transitions throughout the app.
 - **User Authentication**: Users can sign up, log in, and manage their accounts securely.
 - **Pet Browsing**: Browse through a wide range of adorable pets available for adoption. View rich details including images, descriptions, and adoption requirements.
 - **Merchandise Shop**: Explore our online shop for pet-related merchandise. From toys to accessories, find everything you need for your furry friends.
