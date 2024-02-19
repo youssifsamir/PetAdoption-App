@@ -1,0 +1,199 @@
+name: pet_app
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.5 <3.0.0'
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.4
+  carousel_slider: ^4.0.0
+  dots_indicator: ^2.1.0
+  flip_card: ^0.6.0
+  flutter_fortune_wheel: ^1.2.0
+  mobile_scanner: ^2.1.0
+  cupertino_icons: ^1.0.2
+  google_maps_flutter: ^2.2.5
+  video_player: ^2.6.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^2.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+
+    - assets/images/ok.png
+    - assets/images/bone.png
+    - assets/images/spin&win.png
+    - assets/icons/peto.png
+    - assets/icons/loca.png
+    - assets/icons/dogo.png
+    - assets/icons/trofo.png
+    - assets/images/pawpts.png
+    - assets/images/pawtokens.png
+    - assets/images/vouch.png
+    - assets/images/np1.png
+    - assets/images/np2.png
+    - assets/images/np3.png
+    - assets/images/np4.png
+    - assets/images/adopt.png
+    - assets/images/dany2.png
+    - assets/images/dany2.png
+    - assets/images/grumpy.png
+
+    - assets/images/dag.jpeg
+    - assets/images/3.jpeg
+    - assets/images/2.jpeg
+    - assets/images/1.jpeg
+    - assets/images/cu.jpeg
+    - assets/images/ba.jpeg
+    - assets/images/logo.jpeg
+    - assets/images/dogy.jpeg
+    - assets/images/p1.jpeg
+    - assets/images/p3.jpeg
+    - assets/images/p4.jpeg
+    - assets/images/p5.jpeg
+    - assets/images/p10.jpeg
+    - assets/images/p11.jpeg
+    - assets/images/p12.jpeg
+    - assets/images/item1.jpeg
+    - assets/images/item2.jpeg
+    - assets/images/item3.jpeg
+    - assets/images/item4.jpeg
+    - assets/images/item5.jpeg
+    - assets/images/d3.jpeg
+    - assets/images/d5.jpeg
+    - assets/images/ginger2.jpeg
+    - assets/images/jacky.jpeg
+    - assets/images/billy.jpeg
+    - assets/images/bill2.jpeg
+    - assets/images/dany.jpeg
+    - assets/images/dany3.jpeg
+    - assets/images/beho.jpeg
+    - assets/images/beho2.jpeg
+    - assets/images/blacky.jpeg
+    - assets/images/blacky2.jpeg
+    - assets/images/vouch2.jpeg
+    - assets/images/jar.jpeg
+    - assets/images/donate.png
+    - assets/images/ate.jpeg
+    - assets/images/me.jpeg
+    - assets/images/habiba.jpeg
+    - assets/images/sarah.jpeg
+    - assets/images/amri2.jpeg
+    - assets/images/amri3.jpeg
+    - assets/images/argo.jpeg
+    - assets/images/argo2.jpeg
+    - assets/images/argo3.jpeg
+    - assets/images/beho.jpeg
+    - assets/images/beho2.jpeg
+    - assets/images/d3.jpeg
+    - assets/images/d5.jpeg
+    - assets/images/grumpy2.jpeg
+    - assets/images/husky.jpeg
+    - assets/images/husky2.jpeg
+    - assets/images/husky3.jpeg
+    - assets/images/pug.jpeg
+    - assets/images/pug3.jpeg
+    - assets/images/roty.jpeg
+    - assets/images/roty2.jpeg
+    - assets/images/roty3.jpeg
+    - assets/images/rusy.jpeg
+    - assets/images/rusy3.jpeg
+
+    - assets/images/memao3.webp
+    - assets/images/memao2.webp
+    - assets/images/c2.webp
+    - assets/images/jacky2.webp
+    - assets/images/ginger3.webp
+    - assets/images/paws.webp
+    - assets/images/dany2.webp
+    - assets/images/d4.webp
+    - assets/images/amri.webp
+    - assets/images/d4.webp
+    - assets/images/grumpy3.webp
+    - assets/images/pug2.webp
+    - assets/images/rusy2.webp
+
+
+    - assets/images/tap2.gif
+    - assets/images/stars.gif
+
+    - assets/vids/ad.mp4
+
+
+
+
+
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: Cairo
+      fonts:
+        - asset: assets/fonts/Cairo/Cairo-Regular.ttf
+
+    - family: Nerko_One
+      fonts:
+        - asset: assets/fonts/Nerko_One/NerkoOne-Regular.ttf
+          weight: 700
+
+    - family: RaleWay
+      fonts:
+        - asset: assets/fonts/Ok/RaleWay-Regular.ttf
+          style: italic
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
