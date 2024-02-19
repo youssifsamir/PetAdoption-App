@@ -10,15 +10,15 @@ Welcome to the Pet Adoption App repository! This mobile application is built usi
 
 ## Features
 
-- User Authentication: Users can sign up, log in, and manage their accounts securely.
-- Pet Browsing: Browse through a wide range of adorable pets available for adoption. View rich details including images, descriptions, and adoption requirements.
-- Merchandise Shop: Explore our online shop for pet-related merchandise. From toys to accessories, find everything you need for your furry friends.
-- Google Maps Integration: Easily locate nearby pet shelters, veterinary clinics, and pet-friendly places with Google Maps integration.
-- Prize Wheel Spinning: Engage with the community and earn rewards by spinning the prize wheel. Win exciting prizes and discounts on pet products.
-- Points Reward System: Earn points for various activities such as adopting a pet, making purchases or participating in community events. Level up your profile and unlock exclusive rewards.
-- QR Scanning: Seamlessly scan QR codes to access exclusive content, participate in contests, and redeem rewards.
-- Customized Self-built Ads: Must watch ads implemented.
-- Notifications: In-app notifications for booking confirmations, reminders, and updates.
+- **User Authentication**: Users can sign up, log in, and manage their accounts securely.
+- **Pet Browsing**: Browse through a wide range of adorable pets available for adoption. View rich details including images, descriptions, and adoption requirements.
+- **Merchandise Shop**: Explore our online shop for pet-related merchandise. From toys to accessories, find everything you need for your furry friends.
+- **Google Maps Integration**: Easily locate nearby pet shelters, veterinary clinics, and pet-friendly places with Google Maps integration.
+- **Prize Wheel Spinning**: Engage with the community and earn rewards by spinning the prize wheel. Win exciting prizes and discounts on pet products.
+- **Points Reward System**: Earn points for various activities such as adopting a pet, making purchases or participating in community events. Level up your profile and unlock exclusive rewards.
+- **QR Scanning**: Seamlessly scan QR codes to access exclusive content, participate in contests, and redeem rewards.
+- **Customized Self-built Ads**: Must watch ads implemented.
+- **Notifications**: In-app notifications for booking confirmations, reminders, and updates.
 
 
 
