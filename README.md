@@ -3,7 +3,7 @@
 Welcome to the Pet Adoption App repository! This mobile application is built using Flutter and Dart aimed at providing a seamless experience for pet adoption, merchandise shopping, and community engagement. With a clean UI/UX design, smooth usability, and integration of various features such as Google Maps, prize wheel spinning, QR scanning, and a points system
 
 
-## Quick Preview
+## 🔥 Quick Preview
 
 [![Watch the video](https://github.com/youssifsamir/PetAdoption-App/assets/113045942/742f924d-6103-4a4a-856d-b7da3a8a92ab)](https://streamable.com/mi12ch)
 
